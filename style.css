@@ -157,9 +157,9 @@ nav.scrolled { background: rgba(15,32,68,.97); backdrop-filter: blur(8px); }
 }
 .slide.active { opacity: 1; z-index: 1; }
 .slide-bg { position: absolute; inset: 0; background-size: cover; background-position: center; }
-.slide-1 .slide-bg { background-image: url(./logo2.png); }
-.slide-2 .slide-bg { background: linear-gradient(15deg, #493166 0%, #6a5592 40%, #684897 100%); }
-.slide-3 .slide-bg { background: linear-gradient(15deg, #4a8364 0%, #2d866e 40%, #338870 100%); }
+.slide-1 .slide-bg { background-image: url(./school.jpeg); }
+.slide-2 .slide-bg { background-image: url(./lab2.jpeg); }
+.slide-3 .slide-bg { background-image: url(./lab3.jpeg);; }
 
 .slide-content { position: relative; z-index: 2; max-width: 620px; }
 .slide-eyebrow {
